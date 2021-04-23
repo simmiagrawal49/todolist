@@ -1,0 +1,34 @@
+https://medium.com/@peterjd42/using-local-storage-in-react-to-imitate-database-functionality-a2c339cdc1b5
+  /*   <span style={{ textDecoration: this.state.isComplete ? "line-through" : "" }}>{item.value}</span> */
+
+  <ListGroup.Item variant="dark" action>
+			Mark as Complete
+			</ListGroup.Item>
+			
+            https://towardsdatascience.com/build-a-simple-todo-app-using-react-a492adc9c8a4
+
+
+            	display: "flex",
+				justifyContent: "center",
+				alignItems: "center",
+				fontSize: '3rem',
+				fontWeight: 'bolder',
+
+
+        "https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap" rel="stylesheet"
+
+md={{ span: 5, offset: 4 }}
+https://react-icons.github.io/react-icons/icons?name=bs
+AiOutlineDelete
+md={{ span: 5, offset: 4 }}
+sm={1} xs={1} md={1} lg={1} xl={1}
+<ListGroup.Item variant="dark" action
+			onClick = { () => this.deleteItem(item.id) }>
+			Delete
+			</ListGroup.Item>
+
+      <Button
+			onClick = { () => this.deleteItem(item.id) }>
+			Delete
+			</Button>
